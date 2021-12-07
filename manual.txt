@@ -1,4 +1,5 @@
 1) stáhnout Tlauncher a nainstalovat https://tlauncher.org/en/
 2) stáhnout poslední verzi minceraft
 3) soubory budou uložené v cestě: \AppData\Roaming\.minecraft
-4) soubory zazipovat po 20MB a skrze guthub klienta nahrát do repozitáře na githubu: https://github.com/lukaskarabec/minecraft
+\AppData\Roaming\.tlauncher
+4) složky /každou zvlášt prosím) zazipovat po 20MB a skrze github klienta nahrát do repozitáře na githubu: https://github.com/lukaskarabec/minecraft
